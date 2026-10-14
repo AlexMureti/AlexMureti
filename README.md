@@ -6,7 +6,7 @@ Software & AI engineer in Nairobi. I build systems that run in production for bu
 
 | Project | What it is | Status |
 |---|---|---|
-| [credit-scoring-ai](https://github.com/AlexMureti/credit-scoring-ai) | Scoring API for a licensed lender: applicant and bureau data in, a decision out | In production |
+| Credit scoring engine (private) | Scoring API for a licensed lender: applicant and bureau data in, a decision out | In production |
 | [kito-oak-haven](https://github.com/AlexMureti/kito-oak-haven) | Direct-booking site for a Nairobi apartment, two-way Airbnb availability over iCal | [Live](https://www.kitooakhaven.com) |
 | [Shamba-Connect-Website](https://github.com/AlexMureti/Shamba-Connect-Website) | Urban-farming enterprise site, ordering over WhatsApp | [Live](https://shambaconnect.co.ke) |
 | [La-satarah](https://github.com/AlexMureti/La-satarah) | Brand site for a Kenyan herbs exporter, the first site I shipped (2025) | [Live](https://la-satarah-eight.vercel.app) |
