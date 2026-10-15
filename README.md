@@ -20,6 +20,6 @@ Software & AI engineer in Nairobi. I build systems that run in production for bu
 
 **Training** · ALX Software Engineering (2025) · ALX Professional Foundations (2025) · Moringa School, Artificial Intelligence (2025) · Moringa School, Software Development (2025–26) · Anthropic, Claude Code 101 certificate (2026)
 
-[alexmureti.github.io](https://alexmureti.github.io) · alexmkmaingi@gmail.com · [LinkedIn](https://linkedin.com/in/alex-maingi-18084b373)
+[alexmureti.github.io](https://alexmureti.github.io) · alexmkmaingi@gmail.com · [LinkedIn](https://linkedin.com/in/alexmureti)
 
 Most other repositories here are coursework from ALX and Moringa School.
