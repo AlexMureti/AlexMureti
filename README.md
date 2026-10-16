@@ -22,6 +22,6 @@ Software & AI engineer in Nairobi. I build systems that run in production for bu
 
 [alexmureti.github.io](https://alexmureti.github.io) · alexmkmaingi@gmail.com · [LinkedIn](https://linkedin.com/in/alexmureti)
 
-Implementation and sales partner for software companies entering Kenya and East Africa: local integrations, rollout, first-line support, and the launch films.
+Available as implementation and sales partner for software companies entering Kenya and East Africa.
 
 Most other repositories here are coursework from ALX and Moringa School.
